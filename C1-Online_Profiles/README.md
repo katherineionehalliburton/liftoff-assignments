@@ -13,4 +13,4 @@ https://github.com/katherineionehalliburton
 https://www.linkedin.com/in/katherine-halliburton-858122163/
 
 ### Resume
-![Resume](Desktop/Projects/Resume.pdf)
+![Resume](https://github.com/katherineionehalliburton/Resume/blob/master/Resume.pdf)
