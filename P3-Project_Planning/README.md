@@ -9,7 +9,6 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 ![Wireframe 1](/20180424_151558.jpg)
-![Github Link](https://github.com/katherineionehalliburton/BattleBuddies/blob/master/Wireframes/20180424_151558.jpg)
 
 ![Wireframe 2](/20180424_151612.jpg)
 ![GitHub Link](https://github.com/katherineionehalliburton/BattleBuddies/blob/master/Wireframes/20180424_151612.jpg)
